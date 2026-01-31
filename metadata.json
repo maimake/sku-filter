@@ -1,0 +1,5 @@
+{
+  "name": "Advanced SKU Filter Component",
+  "description": "A high-performance React SKU selector supporting multi-search (ID, Chinese, English), multi-selection, and include/exclude modes with a modern UI.",
+  "requestFramePermissions": []
+}
